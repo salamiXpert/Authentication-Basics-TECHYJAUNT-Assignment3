@@ -4,7 +4,8 @@
   "description": "",
   "main": "Auth.js",
   "scripts": {
-    "AuthDev": "nodemon Auth.js"
+    "AuthDev": "nodemon Auth.js",
+    "start": "node Auth.js"
   },
   "keywords": [],
   "author": "",
